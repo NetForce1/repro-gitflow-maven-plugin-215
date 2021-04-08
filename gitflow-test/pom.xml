@@ -73,12 +73,7 @@
       <plugin>
         <groupId>com.amashchenko.maven.plugin</groupId>
         <artifactId>gitflow-maven-plugin</artifactId>
-        <version>1.16.0-WIS-1-SNAPSHOT</version>
-        <configuration>
-          <commitDevelopmentVersionAtStart>true</commitDevelopmentVersionAtStart>
-          <useSnapshotInRelease>true</useSnapshotInRelease>
-          <verbose>true</verbose>
-        </configuration>
+        <version>1.16.0</version>
       </plugin>
     </plugins>
   </build>

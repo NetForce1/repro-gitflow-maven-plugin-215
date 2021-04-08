@@ -1,4 +1,4 @@
-package nl.wis.gitflow-test;
+package nl.wis.gitflowtest;
 
 /**
  * Hello world!

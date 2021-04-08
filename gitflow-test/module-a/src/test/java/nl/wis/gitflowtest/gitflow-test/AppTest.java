@@ -1,4 +1,4 @@
-package nl.wis.gitflow-test;
+package nl.wis.gitflowtest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
